@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+:mortar_board: I am a student at Midland University Code Academy developing skills in Full Stack web development- React, JavaScript, Node, SQL, HTML, CSS. 
+
+:orange_book: I’m currently working on a new React Bookshelf app that allows users to search for books from the Open Library API (https://openlibrary.org/developers/api) and build a personal library with notes for all their favorite books.
+
 <!--
 **seth-allgire/seth-allgire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
